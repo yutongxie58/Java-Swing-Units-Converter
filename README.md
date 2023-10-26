@@ -28,10 +28,3 @@ To run the application locally, you will need Java installed on your system.
 1. Clone this repository to your local machine.
 2. Open the project in your favorite Java IDE (e.g., Eclipse, IntelliJ).
 3. Run the `UnitsConverter` class.
-
-## Contact
-
-For questions or feedback, please don't hesitate to reach out:
-
-[LinkedIn](https://www.linkedin.com/in/yutong-xie-b5a8a6233/)
-[GitHub](https://github.com/yutongxie58)
