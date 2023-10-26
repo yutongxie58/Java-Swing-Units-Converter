@@ -29,14 +29,6 @@ To run the application locally, you will need Java installed on your system.
 2. Open the project in your favorite Java IDE (e.g., Eclipse, IntelliJ).
 3. Run the `UnitsConverter` class.
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## Acknowledgements
-
-Special thanks to the Java community and the creators of the Swing GUI toolkit.
-
 ## Contact
 
 For questions or feedback, please don't hesitate to reach out:
